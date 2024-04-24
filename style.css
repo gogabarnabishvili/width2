@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.main-box {
+    width: 1249px;
+    height: 376px;
+    border-radius: 30px;
+    background-color: #22f4da;
+    margin: 75px auto;
+    padding: 35px 35%;
+}
+.main-title {
+    font-size: 32px;
+    color: #000000;
+}

@@ -10,9 +10,10 @@
     border-radius: 30px;
     background-color: #22f4da;
     margin: 75px auto;
-    padding: 35px 35%;
+    padding: 30px;
 }
 .main-title {
     font-size: 32px;
     color: #000000;
+    text-align: center;
 }
